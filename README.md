@@ -1,5 +1,10 @@
 # Semantic Textual Similarity
 
+### Relevant Links
+* Presentation - [Canva](https://www.canva.com/design/DAE_d1_VMa4/wISWpqkKc-iRExPGlmGiNg/view?utm_content=DAE_d1_VMa4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* STS Dataset - [Papers with code](https://paperswithcode.com/dataset/sts-benchmark)
+* BERT - [arXiv](https://arxiv.org/abs/1810.04805)
+
 ## Task
 
 The task was to calculate degree of comparability in the underlying semantics of paired fragments of text is measured by Semantic Textual Similarity (STS). The model should yield a continuous valued similarity score on a scale of 0 to 5, with 0 indicating complete semantic independence and 5 representing semantic equivalence, when given two texts. The Pearson correlation between machine-assigned semantic similarity scores and human judgments is used to evaluate performance.
